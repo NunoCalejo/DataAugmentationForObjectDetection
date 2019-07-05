@@ -1,5 +1,0 @@
-input_text 164 58 412 137
-input_text 192 100 382 166
-input_text 194 135 377 206
-input_text 193 232 373 332
-radio 96 355 174 450
